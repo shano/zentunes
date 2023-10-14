@@ -1,0 +1,24 @@
+# Python related
+__pycache__/
+*.pyc
+*.pyo
+*.egg-info/
+*.egg
+*.log
+
+# Project-specific
+tmp_audio/
+config.ini
+
+# Virtual environment
+.venv/
+venv/
+
+# IDEs
+.vscode/
+.idea/
+
+# OS-specific
+.DS_Store
+*.swp
+*.swo
